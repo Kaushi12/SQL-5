@@ -1,0 +1,4 @@
+1) SELECT * FROM worker WHERE FIRST_NAME NOT IN ('VIPUL','SATISH');
+2) SELECT * FROM worker WHERE FIRST_NAME LIKE '_____h';
+3) SELECT * FROM student
+   WHERE s_email LIKE '%@gmail.com';
